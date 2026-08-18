@@ -1,0 +1,5 @@
+City,Temperature_C,Feels_Like_C,Humidity_%,Weather_Condition,Wind_Speed_mps,Pressure_hPa,Date_Time
+Nairobi,17.93,17.79,77,Clouds,2.57,1018,2026-08-18 11:43:15
+Mombasa,27.23,28.8,65,Clouds,5.66,1019,2026-08-18 11:49:12
+Kisumu,27.89,27.85,44,Clouds,2.06,1014,2026-08-18 11:49:50
+Eldoret,22.05,21.77,56,Rain,2.06,1017,2026-08-18 11:45:31
